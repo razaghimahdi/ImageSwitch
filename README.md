@@ -2,6 +2,9 @@
 
 A library to give you Switch with image background + UI Sample by Jetpack Compose
 
+## Give a Star! ⭐
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+
 [![](https://jitpack.io/v/razaghimahdi/ImageSwitch.svg)](https://jitpack.io/#razaghimahdi/ImageSwitch)
 
 ### Step 1. Add it in your project-level `build.gradle` or `settings.gradle` file:
